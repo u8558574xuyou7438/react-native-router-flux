@@ -62,7 +62,7 @@
     "react-native": "0.56.0",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-jest-mocks": "1.4.0",
-    "react-native-reanimated": "^1.2.0",
+    "react-native-reanimated": "^2.10.0",
     "react-test-renderer": "16.4.1"
   },
   "peerDependencies": {
